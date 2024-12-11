@@ -1,3 +1,5 @@
 this is my file two for git course
 adding more content to file two.
 adding more  marketin message section.
+
+add footer note
